@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Necula Eduard-Ionut
 - 👀 I’m interested in extending my knowledges about programming
-- 🌱 I’m currently learning Oracle Sql
+- 🌱 I’m currently learning Web stuff
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me needuardionut@gmail.com
 
